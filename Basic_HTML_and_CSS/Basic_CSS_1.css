@@ -12,5 +12,17 @@ p {
 }
 			
 h2 {
+	color: red;
 	text-align: center;
+}
+
+.test {
+	background-color: darkblue;
+	color: white;
+	font-family: Lucida Console;
+	font-size: medium;
+}
+
+.test2 {
+	background-color: grey;
 }
