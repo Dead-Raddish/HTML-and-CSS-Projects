@@ -11,6 +11,7 @@ body {
 
 .bsod {
 	color: white;
+	text-shadow: 2px 2px 4px #000000;
 	background: blue;
 	font-family: Lucida Console;
 	text-align: left;
