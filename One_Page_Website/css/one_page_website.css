@@ -1,0 +1,11 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+input {
+    width: fit-content;
+    margin: auto;
+    border: 10px;
+    border-radius: 10px;
+}
